@@ -1,2 +1,4 @@
-youtube 节目配套的 WebUI 程序
-https://www.youtube.com/watch?v=w4Uxy8zzWKk
+# Youtube 节目：
+## 告别付费！OpenAI Whisper：超强免费语音转文字神器！
+## https://youtu.be/w4Uxy8zzWKk
+
